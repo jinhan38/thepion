@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bank_array">
+        <item>데이터를 불러오는 중입니다</item>
+        <item>조금만 기다려주세요</item>
+        <item>합리적인 금융사 경쟁입찰 방식</item>
+        <item>높은 한도의 주택담보대출, LTV 80% ↑</item>
+    </string-array>
+    
+</resources>

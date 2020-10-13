@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="appName">더파이온</string>
+    <string name="ver">ver 1.1022</string>
+    <string name="pionUrl">https://www.thepion.co.kr:444</string>
+<!--    <string name="pionUrl">http://test.thepion.co.kr</string>-->
+    <string name="pionLoginUrl">https://www.thepion.co.kr:444/Mobile/m_Views/Login/Login_m</string>
+    <string name="pionPushUrl">https://www.thepion.co.kr:444/Views/Company/BiddingListC?listType=ing</string>
+
+    <string name="pionTestLoginUrl">https://test.thepion.co.kr:444/Mobile/m_Views/Login/Login_m</string>
+    <string name="pionTestPushUrl">https://test.thepion.co.kr:444/Mobile/m_Views/Company/BiddingListC_m</string>
+    <string name="pionTestAuctionListUrl">https://test.thepion.co.kr:444/Mobile/m_Views/Auction/mAuction_list</string>
+
+    <string name="pionTestManagerAuctionListUrl">https://test.thepion.co.kr:444/Mobile/m_Views/Manager/BiddingList_m</string>
+    <string name="pionTestUrl">http://test.thepion.co.kr</string>
+    <string name="default_notification_channel_id">ThePION</string>
+    <string name="default_notification_channel_name">ThePION Channel</string>
+
+</resources>
